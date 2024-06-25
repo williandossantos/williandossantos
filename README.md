@@ -1,14 +1,10 @@
 Hi 👋 My name is Willian dos Santos
 ===================================
 
-Desenvolvedor Front End
+Desenvolvedor Front End Iniciante
 -----------------------
 
-Oi! eu sou Willian, tenho 23 anos e atualmente, estudo Desenvolvimento Front End em plataformas onlines. Já desenvolvi alguns projetos básicos com HTML e CSS mas estou em constante evolução com outras linguagens.
-
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Bk-Projetos](http://bkprojetos.netlify.app)
-* ✉️  You can contact me at [williansantosferreira000@gmail.com](mailto:williansantosferreira000@gmail.com)
 * 🧠  I'm learning HTML CSS SASS JAVASCRIPT BULMA
 * 🤝  I'm open to collaborating on Front End
 
